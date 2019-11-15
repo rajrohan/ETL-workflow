@@ -28,3 +28,11 @@ output update one column.
 	Dependency: dataframe-utils.py
 			vectorize.py
 Output will be one csv file with result comparison. ./data/results/TFIDF_distinctProduct_result.csv
+
+
+Refrences:
+Dataset Related information https://demos.componentone.com/aspnet/adventureworks/Products.aspx
+Prefect Library https://docs.prefect.io/core/tutorials/etl.html
+Pygrametl  https://chrthomsen.github.io/pygrametl/doc/examples/dimensions.html
+Classification https://github.com/gallib2/product-categorization
+
