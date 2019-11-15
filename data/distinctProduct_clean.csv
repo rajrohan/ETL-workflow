@@ -1,0 +1,189 @@
+﻿ProductID,Quantity,Product_Name,Product_Price,Product_Category_Name,Product_Category
+1,11,Adjustable Race,1.6,Accessories,1
+384,889,All-Purpose Bike Stand,159,Accessories,1
+14,14,Decal 1,195,Accessories,1
+15,15,Decal 2,130.4,Accessories,1
+16,16,Down Tube,457.8,Accessories,1
+88,593,External Lock Washer 1,415.2,Accessories,1
+90,90,External Lock Washer 2,415.2,Accessories,1
+87,590,External Lock Washer 6,489.6,Accessories,1
+86,590,External Lock Washer 7,418.8,Accessories,1
+383,887,Fender Set - Mountain,21.98,Accessories,1
+27,532,Flat Washer 3,415.2,Accessories,1
+26,530,Flat Washer 4,417,Accessories,1
+30,30,Flat Washer 7,418.8,Accessories,1
+28,533,Flat Washer 8,560,Accessories,1
+77,77,Handlebar Tube,636.8,Accessories,1
+78,78,Head Tube,79.8,Accessories,1
+353,857,Headlights - Weatherproof,44.99,Accessories,1
+126,126,Lock Nut 12,89.4,Accessories,1
+135,640,Lock Nut 14,547.2,Accessories,1
+136,641,Lock Nut 15,548.4,Accessories,1
+119,623,Lock Nut 16,88,Accessories,1
+120,623,Lock Nut 17,176.4,Accessories,1
+139,139,Lock Nut 18,552,Accessories,1
+138,138,Lock Nut 19,734.4,Accessories,1
+133,637,Lock Nut 21,90.8,Accessories,1
+124,123,Lock Nut 22,89,Accessories,1
+125,125,Lock Nut 23,89.2,Accessories,1
+134,637,Lock Nut 3,182,Accessories,1
+137,137,Lock Nut 4,183.2,Accessories,1
+121,626,Lock Nut 7,176.8,Accessories,1
+123,123,Lock Nut 9,177.6,Accessories,1
+154,153,Lock Washer 11,570,Accessories,1
+150,653,Lock Washer 12,590,Accessories,1
+151,656,Lock Washer 2,470,Accessories,1
+153,153,Lock Washer 3,500,Accessories,1
+142,142,Lock Washer 4,520,Accessories,1
+143,143,Lock Washer 5,540,Accessories,1
+149,654,Lock Washer 7,564,Accessories,1
+376,376,Mountain Bottle Cage,9.99,Accessories,1
+213,718,Sport-100 Helmet,35,Accessories,1
+40,543,Thin-Jam Hex Nut 1,144.4,Accessories,1
+39,543,Thin-Jam Hex Nut 10,144,Accessories,1
+48,48,Thin-Jam Hex Nut 13,73.8,Accessories,1
+49,49,Thin-Jam Hex Nut 14,74,Accessories,1
+43,43,Thin-Jam Hex Nut 16,72.8,Accessories,1
+41,546,Thin-Jam Hex Nut 2,144.8,Accessories,1
+46,46,Thin-Jam Hex Nut 3,440.4,Accessories,1
+47,47,Thin-Jam Hex Nut 4,441.6,Accessories,1
+44,44,Thin-Jam Hex Nut 5,73,Accessories,1
+45,45,Thin-Jam Hex Nut 6,146.4,Accessories,1
+50,50,Thin-Jam Hex Nut 7,445.2,Accessories,1
+103,608,Thin-Jam Lock Nut 1,169.6,Accessories,1
+105,610,Thin-Jam Lock Nut 15,85.2,Accessories,1
+104,607,Thin-Jam Lock Nut 2,170,Accessories,1
+109,107,Thin-Jam Lock Nut 3,516,Accessories,1
+110,110,Thin-Jam Lock Nut 4,517.2,Accessories,1
+107,107,Thin-Jam Lock Nut 5,85.6,Accessories,1
+108,107,Thin-Jam Lock Nut 6,171.6,Accessories,1
+375,375,Water Bottle - 30 oz.,4.99,Accessories,1
+280,280,Mountain-100 Black,3399,Bikes,2
+276,780,Mountain-100 Silver,3399,Bikes,2
+289,793,Mountain-200 Black,2319,Bikes,2
+290,795,Mountain-300 Black,1079,Bikes,2
+485,485,Mountain-400-W Silver,769,Bikes,2
+494,999,Mountain-500 Black,565,Bikes,2
+493,998,Mountain-500 Silver,565,Bikes,2
+298,298,Road-250 Black,2444,Bikes,2
+294,294,Road-250 Red,2444,Bikes,2
+478,983,Road-350-W Yellow,1700,Bikes,2
+259,763,Road-450 Red,1458,Bikes,2
+306,810,Road-550-W Yellow,1120,Bikes,2
+264,263,Road-650 Red,783,Bikes,2
+482,482,Road-750 Black,540,Bikes,2
+476,980,Touring-2000 Blue,1214,Bikes,2
+463,967,Touring-3000 Blue,742,Bikes,2
+467,467,Touring-3000 Yellow,742,Bikes,2
+171,171,Paint - Black,688.8,Bikes Color,3
+172,172,Paint - Red,98.6,Bikes Color,3
+173,173,Paint - Silver,889.2,Bikes Color,3
+217,217,AWC Logo Cap,8.99,Clothing,4
+369,873,Classic Vest,36.5,Clothing,4
+218,218,Long-Sleeve Logo Jersey,50,Clothing,4
+360,360,Men's Bib-Shorts,60,Clothing,4
+354,857,Men's Sports Shorts,60,Clothing,4
+214,719,Mountain Bike Socks,10,Clothing,4
+386,890,Short-Sleeve Classic Jersey,54,Clothing,4
+373,373,Women's Mountain Shorts,70,Clothing,4
+357,357,Women's Tights,74.99,Clothing,4
+3,3,BB Ball Bearing,2.4,Components,5
+2,2,Bearing Ball,0.8,Components,5
+13,13,Chain Stays,64.8,Components,5
+11,516,Chainring,193.2,Components,5
+9,513,Chainring Bolts,10,Components,5
+10,513,Chainring Nut,192.6,Components,5
+31,30,Fork Crown,350,Components,5
+453,453,Front Brakes,106.5,Components,5
+450,450,Front Derailleur,91.49,Components,5
+32,30,Front Derailleur Cage,561.6,Components,5
+33,33,Front Derailleur Linkage,120,Components,5
+63,63,Hex Nut 12,76.8,Components,5
+73,577,Hex Nut 15,472.8,Components,5
+56,560,Hex Nut 16,75.4,Components,5
+57,562,Hex Nut 17,151.2,Components,5
+75,580,Hex Nut 18,475.2,Components,5
+61,61,Hex Nut 22,76.4,Components,5
+62,60,Hex Nut 23,76.6,Components,5
+74,579,Hex Nut 4,158,Components,5
+58,563,Hex Nut 7,151.6,Components,5
+60,60,Hex Nut 9,152.4,Components,5
+501,501,HL Bottom Bracket,121.49,Components,5
+312,312,HL Headset,124.73,Components,5
+80,80,HL Hub,721.8,Components,5
+248,248,HL Mountain Frame - Black,1364,Components,5
+244,747,HL Mountain Frame - Silver,1364,Components,5
+330,330,HL Mountain Rear Wheel,327.215,Components,5
+189,187,HL Mountain Seat Assembly,196.92,Components,5
+435,433,HL Mountain Tire,35,Components,5
+170,170,HL Nipple,196.4,Components,5
+342,340,HL Road Frame - Black,1431,Components,5
+226,730,HL Road Frame - Red,1431,Components,5
+325,830,HL Road Front Wheel,330.06,Components,5
+185,183,HL Road Rim,508,Components,5
+418,923,HL Road Seat/Saddle,52.64,Components,5
+438,437,HL Road Tire,32.6,Components,5
+197,700,HL Spindle/Axle,733.6,Components,5
+390,390,HL Touring Frame - Yellow,331,Components,5
+452,452,HL Touring Handlebars,91.57,Components,5
+421,421,HL Touring Seat/Saddle,52.64,Components,5
+385,890,Hydration Pack - 70 oz.,54.99,Components,5
+91,91,Internal Lock Washer 3,120,Components,5
+92,92,Internal Lock Washer 4,122,Components,5
+93,93,Internal Lock Washer 9,127.2,Components,5
+499,499,LL Bottom Bracket,53.99,Components,5
+307,810,LL Fork,148.22,Components,5
+310,310,LL Headset,34.2,Components,5
+79,79,LL Hub,640,Components,5
+429,934,LL Mountain Frame - Black,264,Components,5
+422,422,LL Mountain Frame - Silver,264,Components,5
+313,313,LL Mountain Handlebars,44.54,Components,5
+440,440,LL Mountain Pedal,40.49,Components,5
+328,328,LL Mountain Rear Wheel,87.745,Components,5
+180,683,LL Mountain Rim,608.4,Components,5
+187,187,LL Mountain Seat Assembly,133.34,Components,5
+433,937,LL Mountain Tire,24.99,Components,5
+227,730,LL Road Frame - Black,337,Components,5
+230,230,LL Road Frame - Red,337,Components,5
+323,827,LL Road Front Wheel,85.565,Components,5
+183,687,LL Road Rim,306,Components,5
+190,190,LL Road Seat Assembly,133.34,Components,5
+416,921,LL Road Seat/Saddle,27.12,Components,5
+436,436,LL Road Tire,21.49,Components,5
+198,703,LL Shell,630,Components,5
+196,700,LL Spindle/Axle,418.4,Components,5
+400,903,LL Touring Frame - Blue,333,Components,5
+391,390,LL Touring Frame - Yellow,333,Components,5
+451,450,LL Touring Handlebars,46.09,Components,5
+140,140,Lock Ring,829.8,Components,5
+141,141,Lower Head Race,184.8,Components,5
+155,155,Metal Angle,666.4,Components,5
+156,156,Metal Bar 1,190.8,Components,5
+167,672,Metal Sheet 1,585.6,Components,5
+166,670,Metal Sheet 6,389.6,Components,5
+168,673,Metal Tread Plate,40,Components,5
+500,500,ML Bottom Bracket,101.24,Components,5
+308,813,ML Fork,175.49,Components,5
+311,311,ML Headset,102.29,Components,5
+336,840,ML Mountain Frame - Black,1364,Components,5
+447,950,ML Mountain Frame-W - Silver,1364,Components,5
+329,329,ML Mountain Rear Wheel,236.025,Components,5
+181,686,ML Mountain Rim,914.4,Components,5
+188,188,ML Mountain Seat Assembly,147.14,Components,5
+434,434,ML Mountain Tire,29.99,Components,5
+236,236,ML Road Frame - Red,1413,Components,5
+327,327,ML Road Frame-W - Yellow,1413,Components,5
+324,827,ML Road Front Wheel,248.385,Components,5
+184,184,ML Road Rim,120,Components,5
+417,922,ML Road Seat/Saddle,39.14,Components,5
+437,437,ML Road Tire,24.99,Components,5
+420,420,ML Touring Seat/Saddle,39.14,Components,5
+399,903,Rear Derailleur,121.46,Components,5
+179,683,Reflector,910.8,Components,5
+201,201,Seat Lug,316.8,Components,5
+203,203,Seat Post,848,Components,5
+200,200,Spokes,843.2,Components,5
+202,202,Stem,846.4,Components,5
+446,950,Touring Pedal,80.99,Components,5
+186,186,Touring Rim,120,Components,5
+439,437,Touring Tire,28.99,Components,5

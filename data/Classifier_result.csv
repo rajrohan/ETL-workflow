@@ -1,0 +1,13 @@
+Classifier,scale_method,min_d,max_f,k_clusters,nbrs,metric,Correct predicted,Accuracy,Wrong prediction,W_Accuracy
+KNeighborsClassifier,tf-idf,1,3000,5,5,euclidean,141,75,47,25
+KNeighborsClassifier,tf-idf,1,3000,5,5,cosine,144,76.59574468,44,23.40425532
+KNeighborsClassifier,tf-idf,1,5000,5,5,euclidean,143,76.06382979,45,23.93617021
+KNeighborsClassifier,tf-idf,1,5000,5,5,cosine,143,76.06382979,45,23.93617021
+KNeighborsClassifier,tf-idf,1,10000,5,5,euclidean,154,81.91489362,34,18.08510638
+KNeighborsClassifier,tf-idf,1,10000,5,5,cosine,152,80.85106383,36,19.14893617
+NearestNeighbors,tf-idf,1,3000,5,5,euclidean,132,70.21276596,56,29.78723404
+NearestNeighbors,tf-idf,1,3000,5,5,cosine,145,77.12765957,43,22.87234043
+NearestNeighbors,tf-idf,1,5000,5,5,euclidean,141,75,47,25
+NearestNeighbors,tf-idf,1,5000,5,5,cosine,151,80.31914894,37,19.68085106
+NearestNeighbors,tf-idf,1,10000,5,5,euclidean,139,73.93617021,49,26.06382979
+NearestNeighbors,tf-idf,1,10000,5,5,cosine,145,77.12765957,43,22.87234043
